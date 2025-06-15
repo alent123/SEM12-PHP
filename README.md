@@ -1,4 +1,4 @@
-#En este examen se uso este base de datos 
+# En este examen se uso este base de datos 
 #nombre la base de datos es "mascotas_db" 
 # Tablas de la Base de Datos 
 -- Crear la tabla 'mascotas'
