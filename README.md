@@ -1,6 +1,7 @@
 # En este examen se uso este base de datos 
 #nombre la base de datos es "mascotas_db" 
 # Tablas de la Base de Datos 
+/*
 -- Crear la tabla 'mascotas'
 CREATE TABLE mascotas (
     id INT AUTO_INCREMENT PRIMARY KEY,
@@ -31,3 +32,4 @@ INSERT INTO mascotas (nombre, tipo, edad, raza, peso, fecha_adopcion, created_at
 ('Maya', 'Gato', 4, 'Siberiano', 6.10, '2021-12-20', NOW(), NOW()),
 ('Duke', 'Perro', 7, 'Boxer', 27.00, '2018-06-06', NOW(), NOW()),
 ('Rex', 'Perro', 3, 'Golden Retriever', 28.70, '2022-10-30', NOW(), NOW());
+*/
